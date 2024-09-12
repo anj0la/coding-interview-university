@@ -903,7 +903,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [ ] [Implementation (Python)](https://github.com/jwasham/practice-python/blob/master/quick_sort/quick_sort.py)
 
 - [ ] [[Review] Sorting (playlist) in 18 minutes](https://www.youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl)
-    - [ ] [Quick sort in 4 minutes (video)](https://youtu.be/Hoixgm4-P4M)
+    - [X] [Quick sort in 4 minutes (video)](https://youtu.be/Hoixgm4-P4M)
     - [ ] [Heap sort in 4 minutes (video)](https://youtu.be/2DmK_H7IdTo)
     - [X] [Merge sort in 3 minutes (video)](https://youtu.be/4VqmGXwpLqc)
     - [X] [Bubble sort in 2 minutes (video)](https://youtu.be/xli_FI7CuzA)
